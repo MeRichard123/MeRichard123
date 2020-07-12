@@ -1,6 +1,6 @@
 ### Hi there, I'm Richard 👋
 
-![](https://www.canva.com/design/DAEByWxpXKs/view)
+![Banner](Night Sky Photo General Twitch Banner.png)
 
 I am a self-taught web developer based in the UK.
 
