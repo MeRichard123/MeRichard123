@@ -1,5 +1,7 @@
 ### Hi there, I'm Richard 👋
 
+![https://www.canva.com/design/DAEByWxpXKs/view]
+
 I am a self-taught web developer based in the UK.
 
 <!-- ![RichardMe123's Github Stats](https://github-readme-stats.vercel.app/api?username=merichard123) -->
