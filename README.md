@@ -1,6 +1,6 @@
 ### Hi there, I'm Richard 👋
 
-![Banner](Night Sky Photo General Twitch Banner.png)
+![Banner](https://github.com/MeRichard123/MeRichard123/blob/master/Night%20Sky%20Photo%20General%20Twitch%20Banner.png)
 
 I am a self-taught web developer based in the UK.
 
