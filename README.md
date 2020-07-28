@@ -1,4 +1,4 @@
-### Hi there, I'm Richard 👋
+# Hi there 👋, I'm Richard 
 
 ![Banner](https://github.com/MeRichard123/MeRichard123/blob/master/Github-Banner.png)
 
