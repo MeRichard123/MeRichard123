@@ -9,6 +9,8 @@ If you would like a question answered; please submit and [issue](https://github.
   - [What VSCode Plugins do you use?](#what-vscode-plugins-do-you-use)
   - [What VSCode Theme do you use?](#what-vscode-theme-do-you-use)
   - [What Browser Extentions do you use?](#what-browser-extentions-do-you-use)
+ - [Tools](#tools)
+    - [What Development Tools do you use? Code editor/ apps](#what-developement-tools-do-you-use)
 
 
 
@@ -55,3 +57,12 @@ If you would like a question answered; please submit and [issue](https://github.
   Themes/ Customizing
   - [DuckDuckGo](https://duckduckgo.com/app) - Privacy and Searching Shortcuts
   - [Stylus](https://addons.mozilla.org/en-GB/firefox/addon/styl-us/), [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) - Edit and save custom styles for any website 
+  
+  
+  
+## Tools 
+  ### What developement tools do you use?
+  - I mainly use VSCode to write code, I sometimes use Sublime for quick changes as it a ligher code editor.
+    - For quick python code I use the IDE that comes with python.
+  - I use Postman to test APIs. Sometimes postwoman because it's easier to use online.
+  - Stretchly; I've only recently started using this, but it gives you a pop up, telling you to take a break. 
