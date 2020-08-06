@@ -66,3 +66,5 @@ If you would like a question answered; please submit and [issue](https://github.
     - For quick python code I use the IDE that comes with python.
   - I use Postman to test APIs. Sometimes postwoman because it's easier to use online.
   - Stretchly; I've only recently started using this, but it gives you a pop up, telling you to take a break. 
+  - I use figma for UI design
+  - I use Github projects to plan things out.  
