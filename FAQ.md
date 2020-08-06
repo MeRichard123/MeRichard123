@@ -5,6 +5,8 @@ Hey, I'm Richard welcome to the FQA Section.
 If you would like a question answered; please submit and [issue](https://github.com/MeRichard123/MeRichard123/issues)
 
 ## Questions Contents
+- [General](#general)
+  - [How long have you been programming?](#how-long-have-you-been-programming)
 - [Customizations](#customizations)
   - [What VSCode Plugins do you use?](#what-vscode-plugins-do-you-use)
   - [What VSCode Theme do you use?](#what-vscode-theme-do-you-use)
@@ -13,7 +15,10 @@ If you would like a question answered; please submit and [issue](https://github.
     - [What Development Tools do you use? Code editor/ apps](#what-developement-tools-do-you-use)
 
 
-
+## General 
+  ### How long have you been programming?
+  I started "programming" back when I was in Middle School, I started with scratch, a GUI block bases system. I then did Python at school. I started Web Dev in 2017, with Adobe    Dreamweaver, but the site was super ugly, so I learned HTML and CSS to make it nicer.   
+  
 
 ## Customizations
   ### What VSCode plugins do you use?
