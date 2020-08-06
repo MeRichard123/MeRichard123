@@ -16,7 +16,7 @@ I am a self-taught web developer based in the UK.
 - 📫 How to reach me: Through my [website](https://merichard123.github.io/).
 - 💻 You can see some of my work on my [portfolio](https://richardcoric.netlify.app/).
 - ⚡ Fun fact: I am student of Chemisty, CS and Geography and a tortoise lover.
-- 🤔 Got a question about me or what I do? See the [FAQs]()
+- 🤔 Got a question about me or what I do? See the [FAQs](https://github.com/MeRichard123/MeRichard123/blob/master/FAQ.md)
 
 <!-- - 👯 I’m looking to collaborate on ... 
 
