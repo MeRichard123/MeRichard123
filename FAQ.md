@@ -2,7 +2,7 @@
 
 Hey, I'm Richard welcome to the FQA Section. 
 
-If you would like a question answered; please submit and [issue](https://github.com/MeRichard123/MeRichard123/issues)
+If you would like a question answered; please submit an [issue](https://github.com/MeRichard123/MeRichard123/issues)
 
 ## Questions Contents
 - [General](#general)
