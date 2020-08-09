@@ -45,7 +45,7 @@ If you would like a question answered; please submit an [issue](https://github.c
       - Web Career stuff: [RTC](https://www.youtube.com/channel/UC54NcJvLCvM2CNaBjd5j6HA)
       - Programming: [TheCodingTrain](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw), [TechWithTim](https://www.youtube.com/c/TechWithTim), [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
       Finally [Traversy Media](https://www.youtube.com/c/TraversyMedia) has a course for just about anything.
-      If you don't know where to start check out [free code camp](https://www.freecodecamp.org/) they have a free curriculum you can follow.  Their [youtube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+    - If you don't know where to start check out [free code camp](https://www.freecodecamp.org/) they have a free curriculum you can follow.  Their [youtube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
     - [101 Places you can learn to code for free](https://realtoughcandy.com/learn-to-code-for-free/)
       
 ## Customizations
