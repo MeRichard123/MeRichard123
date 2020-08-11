@@ -18,7 +18,7 @@ I am a self-taught web developer based in the UK.
 - ⚡ Fun fact: I am student of Chemisty, CS and Geography and a tortoise lover.
 - 🤔 Got a question about me or what I do? See the [FAQs](https://github.com/MeRichard123/MeRichard123/blob/master/FAQ.md)
 
-<!-- - 👯 I’m looking to collaborate on ... 
+<!-- - 👯 I’m looking to collaborate on ... --> 
 
 <hr/>
 
