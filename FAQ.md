@@ -15,6 +15,7 @@ If you would like a question answered; please submit an [issue](https://github.c
   - [What Browser Extentions do you use?](#what-browser-extentions-do-you-use)
  - [Tools](#tools)
     - [What Development Tools do you use? Code editor/ apps](#what-developement-tools-do-you-use)
+    - [How do you manage state in React?](#how-do-you-manage-state-in-react)
 
 
 ## General 
@@ -100,4 +101,16 @@ If you would like a question answered; please submit an [issue](https://github.c
   - I use Postman to test APIs. Sometimes postwoman because it's easier to use online.
   - Stretchly; I've only recently started using this, but it gives you a pop up, telling you to take a break. 
   - I use figma for UI design
-  - I use Github projects to plan things out.  
+  - I use Github projects to plan things out.
+ ### How do you manage state in React?
+  While I was learning React, I used component sate only, but I quicky realised that this just won't do.
+  
+  This is when I started using React Context. React context was ok, but I needed something more scalable.
+  
+  Everyone was talking about Redux. So I spent about a week trying out Redux, but I hated it.
+  Redux was super confusing, the code was messy and most importantly there was a whole lot of setup needed to get something simple working and I just didn't like the experience I thought it would be a pain to do each time.
+  
+  At this point I came across a video by Ben Awad and he mentioned [**Zustand**](https://github.com/pmndrs/zustand) for state management in React. I tried this out and it was awesome. Zustand is a super simple library for state management. It contains the "🐻 Bear necessities for state management in React". I have been using Zustand since and I am yet to find any limitations with it.
+
+
+*TLDR; I Tried Redux and wasn't a fan all the set up. I came across Zustand and now use Zustand for state management.*
