@@ -13,7 +13,7 @@
 <div>
 <br/>
 I am a self-taught web developer based in the UK.
-
+<br/>
 
 <!--
 **MeRichard123/MeRichard123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
