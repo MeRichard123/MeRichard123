@@ -10,8 +10,13 @@
 <a href="https://codepen.io/MeRichard123"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='20'> &nbsp;  &nbsp;</a>
 <a href="https://stackoverflow.com/users/10276472"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='20'> &nbsp;  &nbsp;</a>
 <a href="https://www.youtube.com/channel/UCJfXfGX3vMK_FpuqpasCK1g"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='20'> &nbsp;  &nbsp;</a>
+<br/>
 <div>
+  
+  
 I am a self-taught web developer based in the UK.
+
+
 <!--
 **MeRichard123/MeRichard123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
