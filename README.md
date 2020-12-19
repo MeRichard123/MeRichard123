@@ -2,7 +2,7 @@
 
 ![Banner](https://github.com/MeRichard123/MeRichard123/blob/master/Github-Banner.png)
 
-<div style="background:white;">
+<div>
 <a href="https://dev.to/merichard123"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='20'>&nbsp;  &nbsp;</a>
 <a href="https://www.linkedin.com/in/richardcoric/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'> &nbsp;  &nbsp;</a>
 <a href="https://www.instagram.com/me_richard1/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'> &nbsp;  &nbsp;</a> 
