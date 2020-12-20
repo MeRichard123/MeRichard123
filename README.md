@@ -3,16 +3,14 @@
 ![Banner](https://github.com/MeRichard123/MeRichard123/blob/master/Github-Banner.png)
 
 <div>
- <div style="background:white">
-<a href="https://dev.to/merichard123"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='20'>&nbsp;  &nbsp;</a>
-<a href="https://www.linkedin.com/in/richardcoric/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'> &nbsp;  &nbsp;</a>
-<a href="https://www.instagram.com/me_richard1/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'> &nbsp;  &nbsp;</a> 
-<a href="https://twitter.com/Richard5977"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'> &nbsp;  &nbsp;</a>
-<a href="https://codepen.io/MeRichard123"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='20'> &nbsp;  &nbsp;</a>
-<a href="https://stackoverflow.com/users/10276472"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='20'> &nbsp;  &nbsp;</a>
-<a href="https://www.youtube.com/channel/UCJfXfGX3vMK_FpuqpasCK1g"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='20'> &nbsp;  &nbsp;</a>
-<br/>
-   </div>
+  <a href="https://dev.to/merichard123"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='20'>&nbsp;  &nbsp;</a>
+  <a href="https://www.linkedin.com/in/richardcoric/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'> &nbsp;  &nbsp;</a>
+  <a href="https://www.instagram.com/me_richard1/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'> &nbsp;  &nbsp;</a> 
+  <a href="https://twitter.com/Richard5977"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'> &nbsp;  &nbsp;</a>
+  <a href="https://codepen.io/MeRichard123"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='20'> &nbsp;  &nbsp;</a>
+  <a href="https://stackoverflow.com/users/10276472"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='20'> &nbsp;  &nbsp;</a>
+  <a href="https://www.youtube.com/channel/UCJfXfGX3vMK_FpuqpasCK1g"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='20'> &nbsp;  &nbsp;</a>
+  <br/>
 <div>
   
   
