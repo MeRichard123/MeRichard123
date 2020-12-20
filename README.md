@@ -3,13 +3,13 @@
 ![Banner](https://github.com/MeRichard123/MeRichard123/blob/master/Github-Banner.png)
 
 <div>
-  <a href="https://dev.to/merichard123"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='20'>&nbsp;  &nbsp;</a>
-  <a href="https://www.linkedin.com/in/richardcoric/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'> &nbsp;  &nbsp;</a>
-  <a href="https://www.instagram.com/me_richard1/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'> &nbsp;  &nbsp;</a> 
-  <a href="https://twitter.com/Richard5977"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'> &nbsp;  &nbsp;</a>
-  <a href="https://codepen.io/MeRichard123"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='20'> &nbsp;  &nbsp;</a>
-  <a href="https://stackoverflow.com/users/10276472"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='20'> &nbsp;  &nbsp;</a>
-  <a href="https://www.youtube.com/channel/UCJfXfGX3vMK_FpuqpasCK1g"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='20'> &nbsp;  &nbsp;</a>
+  <a href="https://dev.to/merichard123"><img src='https://github.com/bornmay/bornmay/blob/master/devto.png' alt='dev' height='20'>&nbsp;  &nbsp;</a>
+  <a href="https://www.linkedin.com/in/richardcoric/"><img src='https://github.com/bornmay/bornmay/blob/master/linkedin.png' alt='linkedin' height='20'> &nbsp;  &nbsp;</a>
+  <a href="https://www.instagram.com/me_richard1/"><img src='https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fsguru.org%2Fwp-content%2Fuploads%2F2018%2F01%2Flogo-app-pictures-photo-network-instagram-social-icon.png&f=1&nofb=1' alt='instagram' height='20'> &nbsp;  &nbsp;</a> 
+  <a href="https://twitter.com/Richard5977"><img src='https://github.com/bornmay/bornmay/blob/master/twitter.png' alt='twitter' height='20'> &nbsp;  &nbsp;</a>
+  <a href="https://codepen.io/MeRichard123"><img src='https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fauchenberg.github.io%2Fpresentations%2Ffullfrontal-our-web-development-workflow-is-completely-broken%2Fassets%2Fimages%2Fcodepen.png&f=1&nofb=1' alt='codepen' height='20'> &nbsp;  &nbsp;</a>
+  <a href="https://stackoverflow.com/users/10276472"><img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.iconsdb.com%2Ficons%2Fpreview%2Fbrown%2Fstackoverflow-5-xxl.png&f=1&nofb=1' alt='stackoverflow' height='20'> &nbsp;  &nbsp;</a>
+  <a href="https://www.youtube.com/channel/UCJfXfGX3vMK_FpuqpasCK1g"><img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F3.bp.blogspot.com%2F-NV9ceZus5dc%2FXHEdApWlqgI%2FAAAAAAAAC8U%2FOUSGPfQsQ7wUwPsRZvtyDlp2BbXmOhRqwCLcBGAs%2Fs1600%2Fhd-youtube-logo-png-transparent-background-20.png&f=1&nofb=1' alt='YouTube' height='20'> &nbsp;  &nbsp;</a>
   <br/>
 <div>
   
