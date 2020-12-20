@@ -10,6 +10,7 @@
   <a href="https://codepen.io/MeRichard123"><img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn0.iconfinder.com%2Fdata%2Ficons%2Fsocial-network-27%2F32%2Fcodepen_logo_html_code_css_javascript_programming-512.png&f=1&nofb=1' alt='codepen' height='20'> &nbsp;  &nbsp;</a>
   <a href="https://stackoverflow.com/users/10276472"><img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.iconsdb.com%2Ficons%2Fpreview%2Fbrown%2Fstackoverflow-5-xxl.png&f=1&nofb=1' alt='stackoverflow' height='20'> &nbsp;  &nbsp;</a>
   <a href="https://www.youtube.com/channel/UCJfXfGX3vMK_FpuqpasCK1g"><img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F3.bp.blogspot.com%2F-NV9ceZus5dc%2FXHEdApWlqgI%2FAAAAAAAAC8U%2FOUSGPfQsQ7wUwPsRZvtyDlp2BbXmOhRqwCLcBGAs%2Fs1600%2Fhd-youtube-logo-png-transparent-background-20.png&f=1&nofb=1' alt='YouTube' height='20'> &nbsp;  &nbsp;</a>
+  <a href="https://gitlab.com/MeRichard123"><img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fgitlab-logo-png-transparent.png&f=1&nofb=1' alt='YouTube' height='20'> &nbsp;  &nbsp;</a>
   <br/>
 <div>
   
