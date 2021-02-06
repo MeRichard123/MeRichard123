@@ -113,4 +113,5 @@ If you would like a question answered; please submit an [issue](https://github.c
   At this point I came across a video by Ben Awad and he mentioned [**Zustand**](https://github.com/pmndrs/zustand) for state management in React. I tried this out and it was awesome. Zustand is a super simple library for state management. It contains the "🐻 Bear necessities for state management in React". I have been using Zustand since and I am yet to find any limitations with it.
 
 
-*TLDR; I Tried Redux and wasn't a fan all the set up. I came across Zustand and now use Zustand for state management.*
+*TLDR; I Tried Redux and wasn't a fan of all the set up (I know there are templates like ReduxToolkit). I came across Zustand and now use Zustand for state management.*
+If you like Redux but are tired of wiritng tonnes of code check out [EasyPeasy]("https://easy-peasy.now.sh/") A redux abstraction.
