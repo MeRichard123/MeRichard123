@@ -118,4 +118,5 @@ If you would like a question answered; please submit an [issue](https://github.c
   If you like Redux but are tired of wiritng tonnes of code check out [EasyPeasy](https://easy-peasy.now.sh/) A redux abstraction.
 
 ### How do you start a new Web Project?
-For React I used Create React App for a long time; however CRA is quite slow in generating projects. Until I discovered the solution: [Vite](https://vitejs.dev/). Vite can generate many different apps be that React, Vue, React-ts, vanilla, preact and more. The best thing is that it is lightning fast!! 
+- For React I used Create React App for a long time; however CRA is quite slow in generating projects. Until I discovered the solution: [Vite](https://vitejs.dev/). Vite can generate many different apps be that React, Vue, React-ts, vanilla, preact and more. The best thing is that it is lightning fast!!
+- For Vue I tend to stick with the Vue CLI
