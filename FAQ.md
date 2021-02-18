@@ -16,6 +16,7 @@ If you would like a question answered; please submit an [issue](https://github.c
  - [Tools](#tools)
     - [What Development Tools do you use? Code editor/ apps](#what-developement-tools-do-you-use)
     - [How do you manage state in React?](#how-do-you-manage-state-in-react)
+    - [How do you start a new Web Project]()
 
 
 ## General 
@@ -113,5 +114,8 @@ If you would like a question answered; please submit an [issue](https://github.c
   At this point I came across a video by Ben Awad and he mentioned [**Zustand**](https://github.com/pmndrs/zustand) for state management in React. I tried this out and it was awesome. Zustand is a super simple library for state management. It contains the "🐻 Bear necessities for state management in React". I have been using Zustand since and I am yet to find any limitations with it.
 
 
-*TLDR; I Tried Redux and wasn't a fan of all the set up (I know there are templates like ReduxToolkit). I came across Zustand and now use Zustand for state management.*
-If you like Redux but are tired of wiritng tonnes of code check out [EasyPeasy](https://easy-peasy.now.sh/) A redux abstraction.
+  *TLDR; I Tried Redux and wasn't a fan of all the set up (I know there are templates like ReduxToolkit). I came across Zustand and now use Zustand for state management.*
+  If you like Redux but are tired of wiritng tonnes of code check out [EasyPeasy](https://easy-peasy.now.sh/) A redux abstraction.
+
+### How do you start a new Web Project?
+For React I used Create React App for a long time; however CRA is quite slow in generating projects. Until I discovered the solution: [Vite](https://vitejs.dev/). Vite can generate many different apps be that React, Vue, React-ts, vanilla, preact and more. The best thing is that it is lightning fast!! 
