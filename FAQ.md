@@ -54,6 +54,7 @@ If you would like a question answered; please submit an [issue](https://github.c
   ### What VSCode plugins do you use?
   
    - Aestetics:
+      - [Random Theme Switcher](https://marketplace.visualstudio.com/items?itemName=zanza00.random-theme-switcher)
       - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - Rename both HTML tags at once
       - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - Colourful comments
       - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) - Match brackets with colours
@@ -74,6 +75,7 @@ If you would like a question answered; please submit an [issue](https://github.c
       - [CSS Peak](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek) - See the CSS from the HTML file 
   
   ### What VSCode Theme do you use?
+   - I use a random theme switcher to randomly change themes. [See here for the list]()
    - [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)
    - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
     
