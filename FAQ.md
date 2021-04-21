@@ -75,9 +75,7 @@ If you would like a question answered; please submit an [issue](https://github.c
       - [CSS Peak](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek) - See the CSS from the HTML file 
   
   ### What VSCode Theme do you use?
-   - I use a random theme switcher to randomly change themes. [See here for the list]()
-   - [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)
-   - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+   - I use a random theme switcher to randomly change themes. [See here for the list](https://github.com/MeRichard123/MeRichard123/blob/master/vscode-settings.json)
     
   
   ### What Browser extentions do you use
