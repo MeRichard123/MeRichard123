@@ -23,7 +23,7 @@ I am a self-taught web developer based in the UK.
 
 - 🔭 I’m currently working on becoming a better developer.
 - 🌱 I’m currently learning Express JS
-- 💡 Also currently experimenting with VueJS
+- 💡 Also currently experimenting with AstroJS
 - 💬 Want to know more about me? See my site/ [Blog here](https://merichard123.github.io/).
 - 📫 How to reach me: Through my [website](https://merichard123.github.io/).
 - 💻 You can see some of my work on my [portfolio](https://richardcoric.netlify.app/).
