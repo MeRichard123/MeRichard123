@@ -33,7 +33,7 @@ I am a self-taught web developer based in the UK.
 <!-- - 👯 I’m looking to collaborate on ... --> 
 
  <a href="https://app.daily.dev/DailyDevTips">
-   <img src="https://github.com/MeRichard123/MeRichard123/blob/master/devcard.svg" width="400" alt="RichardMe123's Dev Card"/>
+   <img src="https://github.com/MeRichard123/MeRichard123/blob/master/devcard.svg" width="300" alt="RichardMe123's Dev Card"/>
   </a>
   
 <hr/>
