@@ -32,10 +32,9 @@
   - 💻 You can see some of my work on my [portfolio](https://richardcoric.netlify.app/).
   - ⚡ Fun fact: I am student of Chemisty, CS and Geography and a tortoise lover.
   - 🤔 Got a question about me or what I do? See the [FAQs](https://github.com/MeRichard123/MeRichard123/blob/master/FAQ.md)
+  - ⚙ NeoVim setup and other DotFiles found [here](https://github.com/MeRichard123/dotfiles)
 
-
-  
-    
+   
 </div>
 <!-- - 👯 I’m looking to collaborate on ... --> 
 
