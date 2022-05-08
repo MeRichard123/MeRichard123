@@ -14,9 +14,9 @@
     <a href="https://gitlab.com/MeRichard123"><img src='./gitlab.png' alt='GitLab' height='20'> &nbsp;  &nbsp;</a>
     <br/>
   <div>
- <a href="https://app.daily.dev/DailyDevTips">
+ <!-- <a href="https://app.daily.dev/DailyDevTips">
    <img src="https://github.com/MeRichard123/MeRichard123/blob/master/devcard.svg" width="256" align="right" alt="RichardMe123's Dev Card"/>
-  </a>
+  </a> -->
 
   I am a self-taught web developer based in the UK.
 
