@@ -6,7 +6,6 @@
   <div>
     <a href="https://dev.to/merichard123"><img src='./devto.png' alt='dev' height='20'>&nbsp;  &nbsp;</a>
     <a href="https://www.linkedin.com/in/richardcoric/"><img src='./linkedin.png' alt='linkedin' height='20'> &nbsp;  &nbsp;</a>
-    <a href="https://www.instagram.com/me_richard1/"><img src='./instagram.png' alt='instagram' height='20'> &nbsp;  &nbsp;</a> 
     <a href="https://twitter.com/Richard5977"><img src='./twitter.png' alt='twitter' height='20'> &nbsp;  &nbsp;</a>
     <a href="https://codepen.io/MeRichard123"><img src='./codepen.png' alt='codepen' height='20'> &nbsp;  &nbsp;</a>
     <a href="https://stackoverflow.com/users/10276472"><img src='stackoverflow.png' alt='stackoverflow' height='20'> &nbsp;  &nbsp;</a>
@@ -18,7 +17,7 @@
    <img src="https://github.com/MeRichard123/MeRichard123/blob/master/devcard.svg" width="256" align="right" alt="RichardMe123's Dev Card"/>
   </a> -->
 
-  I am a self-taught web developer based in the UK.
+  I am a self-taught Web Developer based in the UK.
 
 
   <!--
