@@ -23,14 +23,14 @@
 
   <!--
   **MeRichard123/MeRichard123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
+    
+  - ⚡ I am a Computer Science Student at the University of Lincoln
   - 🔭 I’m currently working on becoming a better developer.
   - 🌱 I’m currently learning Haskell
   - 💡 Also currently experimenting with GraphQl
   - 💬 Want to know more about me? See my site/ [Blog here](https://merichard123.github.io/).
   - 📫 How to reach me: Through my [website](https://merichard123.github.io/).
   - 💻 You can see some of my work on my [portfolio](https://richardcoric.netlify.app/).
-  - ⚡ Fun fact: I am student of Chemisty, CS and Geography and a tortoise lover.
   - 🤔 Got a question about me or what I do? See the [FAQs](https://github.com/MeRichard123/MeRichard123/blob/master/FAQ.md)
   - ⚙ NeoVim setup and other DotFiles found [here](https://github.com/MeRichard123/dotfiles)
 
