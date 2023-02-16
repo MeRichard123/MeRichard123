@@ -17,7 +17,7 @@
    <img src="https://github.com/MeRichard123/MeRichard123/blob/master/devcard.svg" width="256" align="right" alt="RichardMe123's Dev Card"/>
   </a> -->
 
-  I am a self-taught Web Developer based in the UK.
+  I am a self-taught Software Developer based in the UK.
 
 
   <!--
@@ -26,7 +26,7 @@
   - ⚡ I am a Computer Science Student at the University of Lincoln
   - 🔭 I’m currently working on becoming a better developer.
   - 🌱 I’m currently learning Rust
-  - 💡 Also currently experimenting with GraphQl
+  - 💡 Also currently experimenting with C of all things.
   - 💬 Want to know more about me? See my site/ [Blog here](https://merichard123.github.io/).
   - 📫 How to reach me: Through my [website](https://merichard123.github.io/).
   - 💻 You can see some of my work on my [portfolio](https://richardcoric.dev/).
