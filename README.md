@@ -25,8 +25,8 @@
     
   - ⚡ I am a Computer Science Student at the University of Lincoln
   - 🔭 I’m currently working on becoming a better developer.
-  - 🌱 I’m currently learning Rust
-  - 💡 Also currently experimenting with C of all things.
+  - 🌱 I’m currently writing segmentation faults.
+  <!-- - 💡 Also currently experimenting with C of all things. -->
   - 💬 Want to know more about me? See my site/ [Blog here](https://merichard123.github.io/).
   - 📫 How to reach me: Through my [website](https://merichard123.github.io/).
   - 💻 You can see some of my work on my [portfolio](https://richardcoric.dev/).
