@@ -18,13 +18,9 @@
   </a> -->
 
   I am a self-taught Software Developer based in the UK.
-
-
-  <!--
-  **MeRichard123/MeRichard123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
     
   - ⚡ I am a Computer Science Student at the University of Lincoln
-  - 🔭 I’m currently working on becoming a better developer.
+  - 🔭 I’m currently working on [insert name of really cool programming language].
   - 🌱 I’m currently writing segmentation faults.
   <!-- - 💡 Also currently experimenting with C of all things. -->
   - 💬 Want to know more about me? See my site/ [Blog here](https://merichard123.github.io/).
@@ -40,5 +36,8 @@
 
 <hr/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MeRichard123&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MeRichard123&show_icons=true&theme=synthwave)
 
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeRichard123&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+-->
