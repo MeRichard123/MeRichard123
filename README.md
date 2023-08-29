@@ -20,7 +20,7 @@
   I am a self-taught Software Developer based in the UK.
     
   - ⚡ I am a Computer Science Student at the University of Lincoln
-  - 🔭 I’m currently working on [insert name of really cool programming language].
+  - 🔭 I’m currently working on RichTools.
   - 🌱 I’m currently writing segmentation faults.
   <!-- - 💡 Also currently experimenting with C of all things. -->
   - 💬 Want to know more about me? See my site/ [Blog here](https://merichard123.github.io/).
