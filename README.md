@@ -23,7 +23,7 @@
   - 🔭 I’m currently working on RichTools.
   - 🌱 I’m currently writing segmentation faults.
   <!-- - 💡 Also currently experimenting with C of all things. -->
-  - 💬 Want to know more about me? See my site/ [Blog here](https://merichard123.github.io/).
+  - 💬 Want to know more about me? See my site/ [Blog here](https://richardcoric.dev/blogs).
   - 📫 How to reach me: Through my [website](https://merichard123.github.io/).
   - 💻 You can see some of my work on my [portfolio](https://richardcoric.dev/).
   - 🤔 Got a question about me or what I do? See the [FAQs](https://github.com/MeRichard123/MeRichard123/blob/master/FAQ.md)
