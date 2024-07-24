@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Richard 🏳️‍🌈
 
-![Banner](https://github.com/MeRichard123/MeRichard123/blob/master/Github-Banner.png)
+![Banner](https://github.com/MeRichard123/MeRichard123/blob/master/Github-Banner-new.png)
 
 <div align="left">
   <div>
