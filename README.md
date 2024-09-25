@@ -31,10 +31,13 @@
 
    
 </div>
- <h2> ✨ My Interests </h2>
+<h2> ✨ My Interests </h2>
 <div>
- - Deep Learning and more specifically Natural Language Processing 
- - The low level operation of anything software
+<ul>
+  <li>Deep Learning and, more specifically Natural Language Processing.</li>
+  <li>The low-level operation of anything software.</li>
+  <li>There a lot of parts of CS which I would like to explore still.</li>
+</ul>
 </div>
 
 <hr/>
