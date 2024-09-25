@@ -33,8 +33,8 @@
 </div>
  <h2> ✨ My Interests </h2>
 <div>
-- Deep Learning and more specifically Natural Language Processing 
-- The low level operation of anything software
+ - Deep Learning and more specifically Natural Language Processing 
+ - The low level operation of anything software
 </div>
 
 <hr/>
