@@ -31,7 +31,7 @@
 
    
 </div>
- ## ✨ My Interests 
+ # ✨ My Interests 
 - Deep Learning and more specifically Natural Language Processing 
 - The low level operation of anything software
 
